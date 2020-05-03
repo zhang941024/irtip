@@ -1,0 +1,11 @@
+cn\itrip\auth\controller\TokenController.class
+cn\itrip\auth\service\UserService.class
+cn\itrip\auth\service\TokenServiceImpl.class
+cn\itrip\auth\service\MailServiceImpl.class
+cn\itrip\auth\service\SmsService.class
+cn\itrip\auth\service\SmsServiceImpl.class
+cn\itrip\auth\service\UserServiceImpl.class
+cn\itrip\auth\service\MailService.class
+cn\itrip\auth\controller\SwaggerConfig.class
+cn\itrip\auth\controller\UserController.class
+cn\itrip\auth\service\TokenService.class
